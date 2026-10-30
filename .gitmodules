@@ -1,3 +1,4 @@
 [submodule "3rdparty/Megatron-LM"]
 	path = 3rdparty/Megatron-LM
-	url = https://github.com/NVIDIA-NeMo/nv-mistralai-megatron.git
+	url = git@github.com:ehosseiniasl/Megatron-LM.git
+	branch = ehsan/nt4-radio-single-image-attention-fix
